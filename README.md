@@ -42,7 +42,7 @@ grpc-polyglot/
 ├── node-client/
 │   ├── client.js
 │   └── package.json
-└── Laporan_Praktikum_gRPC_Polyglot_Raya_Deswita_Dengan_Screenshot.docx
+└── Laporan_Praktikum_gRPC_Polyglot_Raya_Deswita.
 ```
 
 *Catatan: sesuaikan struktur di atas dengan nama folder dan file yang benar-benar ada pada proyek kamu.*
